@@ -1,0 +1,1 @@
+Librairie pour le bracelet Myo à importer dans l'IDE Arduino
