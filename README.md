@@ -1,4 +1,5 @@
 # MyoBras
 Projet Arduino pour le bracelet a reconnaissances de gestes Myo.
-Importer la librairie MyoController via le zip dans /library avant utilisation.
-```#include <MyoController.h>```
+Importer les librairies MyoController et Braccio via les zip dans /library avant utilisation.
+```#include <MyoController.h>
+#include <Braccio.h>```
