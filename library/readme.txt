@@ -1,1 +1,1 @@
-Librairie pour le bracelet Myo à importer dans l'IDE Arduino
+Librairies pour le bracelet Myo et la bras Braccio à importer dans l'IDE Arduino
