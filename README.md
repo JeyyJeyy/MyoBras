@@ -10,13 +10,13 @@
 
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/Statut-actif-red" alt="version">
+    <img src="https://img.shields.io/badge/Statut-finished-red" alt="version">
   </a>
   <a>
      <img alt="Arduino" src="https://img.shields.io/badge/Type-Arduino-green">
   </a>
   <a>
-     <img src="https://img.shields.io/badge/Projet-v1.1.14-blue" alt="version">
+     <img src="https://img.shields.io/badge/Projet-v1.2.0-blue" alt="version">
   </a>
 </p>
 
